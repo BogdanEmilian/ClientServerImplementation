@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645619352 source:d:\projects\codeblocks\cnserver\main.cpp
+	<winsock2.h>
+	<iostream>
+	<io.h>
+
